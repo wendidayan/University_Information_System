@@ -1,7 +1,5 @@
 # University_Information_System
 
-# University_Information_System
-
 Developed by: Wendee Diane F. Llona Course: BSIT - 3rd Year
 Subject: Event-Driven Programming
 Language: C# (.NET Framework)
